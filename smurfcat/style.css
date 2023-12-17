@@ -1,0 +1,39 @@
+style.css
+body {
+    font-family: Arial,  sans-serif; /* Семейство шрифтов */
+    font-size: 24px; /* Размер основного шрифта в <p></p>  */
+    background-color: #ffffff; /* Цвет фона веб-страницы */
+    color: #000000; /* Цвет основного текста */ 
+}
+h1 {
+    text-align: center;
+    color: #D6FF6B; /* Цвет заголовка */
+    font-size: 35px; /* Размер шрифта в пунктах */
+    font-family: Arial,  sans-serif; /* Семейство шрифтов */
+}
+h2 {
+    text-align: center;
+    color: #D6FF6B; /* Цвет заголовка */
+    font-size: 28px; /* Размер шрифта в пунктах */
+    font-family: Arial,  sans-serif; /* Семейство шрифтов */
+}
+img {
+    padding-top: 20px;
+    width: 1855px;
+    height: 1000px;
+    border-radius: 50px;
+}
+.Ram {
+    padding-left: 10px;
+    padding-bottom: 5px;
+    font-family: Arial,  sans-serif;
+    font-size: 24px;
+    border: 100px;
+    border-radius: 50px;
+    background-color: #5988FF;
+    color: #FFFFFF;
+}
+.Pink {
+    color: #FD98FB;
+}
+
